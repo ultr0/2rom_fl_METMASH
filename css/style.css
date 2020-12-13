@@ -1,0 +1,59 @@
+body {
+
+}
+#main{
+    color: #ffffff;
+    background: url("../res/index.jpg") #0D2035 no-repeat;
+}
+.header {}
+.btn-primary {
+    background: #363636;
+}
+.slider {}
+.services  {}
+.download-contact  {
+
+}
+
+.slider-red-tile {
+    background: rgba(179, 0, 5, 0.64);
+    color: #ffffff;
+
+}
+
+.slider-white-tile{
+    background: #ffffff;
+    color: #000000;
+}
+.counter {
+    margin: 6rem 0;
+
+}
+.count-big {
+    font-size: 3rem;
+
+}
+.count-small {
+    font-size: 1.5rem;
+}
+.red-tile {
+    background: #EB1E23;
+    color: #ffffff;
+}
+
+.blue-tile {
+    background: #2297D8;
+    color: #ffffff;
+}
+
+.darkblue-tile {
+    background: #0E2136;
+    color: #ffffff;
+}
+
+.production  {}
+.reviews  {}
+.clients  {}
+.stat-cards  {}
+.news  {}
+.portfolio  {}
